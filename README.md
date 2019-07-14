@@ -26,7 +26,7 @@ Please follow the instructions.
 Storage room - shelf B1
 
 ## In The Box
-Here you can find what is included in the DJI Mavic 2 Enterprise Drone case and how they located in case.
+Here you can find what is included in the DJI Mavic 2 Enterprise Drone case and how they located in case. Please check the contents when you get the drone and when you return.
 1. Aircraft (with battery)
 2. Remote Controller (with a pair of control stick and RC cable for lightning connector, slider included)
 3. Propeller (pair *3)
@@ -40,6 +40,8 @@ Here you can find what is included in the DJI Mavic 2 Enterprise Drone case and 
     a pair of Spare Control Stick, USB Adapter, Communication Cable-USB3.0 Type-c, RC cable (Standard Micro USB connector, slider included), RC cable (USB-C connector, slider included)
 11. Manuals
     Product information of Beacon, Product information of Spotlight, Product information of Speaker, In the box, Quick start guide, intelligent flight battery safety guidelines, Disclaimer and safety guidelines
-
+![alt text](/images/mavic2enterpriseCase.jpg)
+![alt text](/images/mavic2enterpriseContent.jpg)
+![alt text](/images/mavic2enterpriseContentDetails.jpg)
 
 

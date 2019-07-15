@@ -29,7 +29,7 @@ Storage room - shelf B1
 Here you can find what is included in the DJI Mavic 2 Enterprise Drone case and how they located in case. Please check the contents when you get the drone and when you return.
 1. Aircraft (with battery)
 2. Remote Controller (with a pair of control stick and RC cable for lightning connector, slider included)
-3. Propeller (pair *3)
+3. Propeller (pair * 3)
 4. Battery Charger
 5. Power Cable
 6. Extended port cover
@@ -94,13 +94,18 @@ In case the aircraft and the controller both has enough charge then you can skip
 ## Device's Functionalities and Features
 
 + Auto take off and auto landing.
-+ Fly up to 18 km, for 31 minutes with fully charged battery.
-+ Remote controlled using the controller in the box with range up to 8km
++ Maximum speed of 72 kph and maximum flight time 31 minutes with fully charged battery.
++ OCUSYNCTM 2.0: Remote controlled using the controller in the box with range up to 8km
 + Live View: streaming live video up to 1080p from the camera on board of the aircraft to the mobile app.
 + Video Recording: 4k, 2.7K, FHD video on the SDK card.
-+ Still photo: single shot, burst shooting: 3/5 frames, auto exposure bracketing (AEB)
++ Still photo: 12-megapixel, supports  2x  optical  zoom,  24-48  mm  lens
++ Omnidirectional Vision Systems
++ Infrared Sensing Systems
 + Obstacle Sensing.
-+ Intelligent Flight Modes : HyperLapse, ActiveTrackTM  2.0, QuickShot, Panorama, and Advanced Pilot Assistance Systems
++ Advanced Pilot Assistance System
++ AirSense
++ Password Protection
++ Attachable  Modular  Accessories:  M2E  Spotlight, M2E Beacon. and M2E speaker
 
 
 ## Safety Guidelines
@@ -134,7 +139,7 @@ In case the aircraft and the controller both has enough charge then you can skip
 ### Operation
 
 1. DO NOT start the motors before unfolding the arms. Otherwise it may damage the aircraft.
-2. DO NOT touch the battery buckles while holding the aircraft to avoid it dropping off. 
+2. DO NOT touch the battery buckles while holding the aircraft to avoid it dropping off.
 3. Stay away from the rotating propellers and motors.
 4. Maintain visual line of sight of your aircraft at all times.
 5. DO NOT answer incoming calls, text messages or do anything that may distract you from ope your smart device to control the aircraft during flight
@@ -161,7 +166,7 @@ For more detailed safety information, you can go check the manuals of Disclaimer
 * Available SDKs: Mobile, UX, OnBoard, Payload, Windows.
 * Features: flight, camera, missions and subsystems.
 
-## Accessories 
+## Accessories
 
 ### DJI Goggles
 

@@ -125,7 +125,7 @@ In case the aircraft and the controller both has enough charge then you can skip
 6. Ensure there is nothing obstructing the motors.
 7. Check that the camera lens and sensors are clean and free of stains.
 8. Only calibrate the compass when the DUI GOTM 4 app or the status indicator prompt you to do so.
-9. Ensure the DJI GO 4 app and aircraft's firmware have been upgraded to the latest version.
+9. Ensure the DJI Pilot app and aircraft's firmware have been upgraded to the latest version.
 10. Be familiar with the selected flight mode and understand all safety functions and warnings.
 11. Ensure that your flight area is outside the GEO Zones and flight condtions are sutable for flying the aircraft.
 12. Ensure the DJI Pilot app is properly launched to assist your operation of the arcraft. WITHOUT THE FLIGHT DATA RECORDED BY THE DJI PILOT App, IN CERTAIN SITUATIONS (INCLUDING THE LOSS OF YOUR AIRCRAFT) DJI MAY NOT BE ABLE TO PROVIDE AFTERSALES SUPPORT TO YOU OR ASSUME LIABILITY.

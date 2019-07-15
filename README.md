@@ -48,19 +48,19 @@ Here you can find what is included in the DJI Mavic 2 Enterprise Drone case and 
 
 ### Assembly
 
-1. Install the mobile app DJI GO 4 from the app store or googler play [DJI GO 4](https://dl.djicdn.com/downloads/RC/1212121.jpg)
+1. Install the mobile app DJI Pilot from the app store or googler play [DJI Pilot](https://www3.djicdn.com/cms_uploads/download/app/qr_code/5/6f450dc9cc704e66ac191cda3b7db69b.png)
 2. Take the parts out of the box
 3. Start by taking the aircraft and remove the gimbal (plastic) cover from the camera
 4. Unfold the front arms one by one by pulling it outside away from the aircraft body.
 5. Unfold the rear arms by pulling them downwards one by one
 6. Take the propellers out of the plastic bag, there are a total of six pairs but you will only need four
 7. Take 2 pairs unmarked (black around the hole) and two marked (small white circle around the whole) and match it with mark on the motor
-8. Put each propellers one by one by pressing firmly and then rotate as the lock drawing on the top shows. Note: make sure to match the propeller with the correct motor with the same white marking. Also note that not all propellers lockes in the same direction and follow the drawing on top.
+8. Put each propellers one by one by pressing firmly and then rotate as the lock drawing on the top shows. Note: make sure to match the propeller with the correct motor with the same white marking. Also note that not all propellers locks in the same direction and follow the drawing on top.
 9. Check the battery level by clicking on the power button once on the top of the aircraft
-10. Check the battery level of the LCD controller by clicking once on the power button on the lcd controller
+10. Check the battery level of the LCD controller by clicking once on the power button on the LCD controller
 11. In case either batteries is low on charge, charge it using the power adapter.
 12. Unfold the antennas on the top of the remote controller
-13. UnfoLd the mobile device clamps on the bottom, then attach the control sticks
+13. Unfold the mobile device clamps on the bottom, then attach the control sticks
 14. Attach the controller sticks in its place which could be found under the mobile device clamps.
 15. If the RC cable on the left side is not connected then connect and place the other end to the end of the slot.
 16. Attach your mobile device.
@@ -82,13 +82,13 @@ In case the aircraft and the controller both has enough charge then you can skip
 ### Powering UP
 1. Press the power button on the remote controller, then press and hold to power on the remote controller.
 2. Press the power button on the aircraft, then press and hold to power on the aircraft
-3. Launch the app DJI GO 4.
+3. Launch the app DJI Pilot.
 
 ### Connect the accessories
-1. Remove the extented port cover on the aircraft
+1. Remove the extended port cover on the aircraft
 ![alt text](/images/accessoriesPortLocated.jpg)
 ![alt text](/images/accessoriesPort.jpg)
-2. Pick one accessory that you want (speaker,Spotlight or Beacon) and connect it properly, here shows the speaker as examples.
+2. Pick one accessory that you want (speaker, spotlight or beacon) and connect it properly, here shows the speaker as examples.
 ![alt text](/images/speakerConnect.jpg)
 
 ## Device's Functionalities and Features
@@ -132,8 +132,8 @@ In case the aircraft and the controller both has enough charge then you can skip
 8. Only calibrate the compass when the DUI GOTM 4 app or the status indicator prompt you to do so.
 9. Ensure the DJI Pilot app and aircraft's firmware have been upgraded to the latest version.
 10. Be familiar with the selected flight mode and understand all safety functions and warnings.
-11. Ensure that your flight area is outside the GEO Zones and flight condtions are sutable for flying the aircraft.
-12. Ensure the DJI Pilot app is properly launched to assist your operation of the arcraft. WITHOUT THE FLIGHT DATA RECORDED BY THE DJI PILOT App, IN CERTAIN SITUATIONS (INCLUDING THE LOSS OF YOUR AIRCRAFT) DJI MAY NOT BE ABLE TO PROVIDE AFTERSALES SUPPORT TO YOU OR ASSUME LIABILITY.
+11. Ensure that your flight area is outside the GEO Zones and flight conditions are suitable for flying the aircraft.
+12. Ensure the DJI Pilot app is properly launched to assist your operation of the aircraft. WITHOUT THE FLIGHT DATA RECORDED BY THE DJI PILOT App, IN CERTAIN SITUATIONS (INCLUDING THE LOSS OF YOUR AIRCRAFT) DJI MAY NOT BE ABLE TO PROVIDE AFTERSALES SUPPORT TO YOU OR ASSUME LIABILITY.
 
 
 ### Operation
@@ -147,7 +147,7 @@ In case the aircraft and the controller both has enough charge then you can skip
 7. DO NOT fly close to reflective surfaces such as water or snow, as these types of terrain may affect the performance of the vision system. Only fly the aircraft in environments with good lighting and visibility when GPS signal is weak.
 8. Land the aircraft in a safe location when there is a low battery or high wind warning.
 9. Please set the Return-to-Home (RTH) Altitude at a level higher than surrounding obstacles using the DJI Pilot app.
-10. The aircraft annot avoid obstructions during RTH when the vision system is disabled. Use the remote controller to control the aircraft's speed and altitude to avoide collisions during RTH.
+10. The aircraft cannot avoid obstructions during RTH when the vision system is disabled. Use the remote controller to control the aircraft's speed and altitude to avoid collisions during RTH.
 11. After landing, first stop the motor, then turn off the intelligent flight battery, and then turn off the remote controller.
 12. When using Intelligent Flight Modes, be prepared to take control of the aircraft pushing the sticks and pressing the Flight Pause button or tap the on-screen stop button. Please note that the aircraft will continue performing the Intelligent Flight functions after you pushed the sticks. Press the stop button on the screen to exit such on-going functions completely.
 13. The pilot must pay attention and control the aircraft at all times during flight. Safety and flight assistance features such as obstacle avoidance and precision landing are meant to assist the pilot, not to replace their control of the aircraft.
@@ -170,7 +170,7 @@ For more detailed safety information, you can go check the manuals of Disclaimer
 
 ### DJI Goggles
 
-DJI Goggles are used to connect the DJI Mavic 2 PRO Drone. The details can be found [here](/DJIGoggles/README.md).
+DJI Goggles are used to connect the DJI Mavic 2 Enterprise Drone. The details can be found [here](/DJIGoggles/README.md).
 
 ### Mavic 2 Fly More Kit
 
@@ -179,9 +179,9 @@ Here is the external Kit for Mavic 2. Please check the content when you get and 
 2. Shoulder Belt
 3. Battery Charging Hub
 4. Car Charger
-5. Bettery to Power Bank Adaptor
-6. Intelligent Flight Battery *2
-7. Propellers (one marked, one unmarked) *2 pairs
+5. Battery to Power Bank Adaptor
+6. Intelligent Flight Battery * 2
+7. Propellers (one marked, one unmarked) * 2 pairs
 8. Documentation (MAVIC 2 Fly More Kit)
 ![alt text](/images/Mavic%202%20Fly%20More%20Kit/box%26bag.jpg)
 ![alt text](/images/Mavic%202%20Fly%20More%20Kit/bag.jpg)
@@ -193,4 +193,4 @@ After finish using the device, it is important to turn off, disassemble and put 
 
 ## More Documentations
 
-More documentations and materials to download could be found [here](https://www.dji.com/se/mavic-2/info#downloads).
+More documentations and materials to download could be found [here](https://www.dji.com/se/mavic-2-enterprise/downloads).

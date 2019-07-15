@@ -183,9 +183,9 @@ Here is the external Kit for Mavic 2. Please check the content when you get and 
 6. Intelligent Flight Battery * 2
 7. Propellers (one marked, one unmarked) * 2 pairs
 8. Documentation (MAVIC 2 Fly More Kit)
-![alt text](/images/Mavic%202%20Fly%20More%20Kit/box%26bag.jpg)
-![alt text](/images/Mavic%202%20Fly%20More%20Kit/bag.jpg)
-![alt text](/images/Mavic%202%20Fly%20More%20Kit/box%20content.jpg)
+![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/images/Mavic%202%20Fly%20More%20Kit/box%26bag.jpg)
+![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/images/Mavic%202%20Fly%20More%20Kit/bag.jpg)
+![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/images/Mavic%202%20Fly%20More%20Kit/box%20content.jpg)
 
 ##  Putting The Device Back
 
